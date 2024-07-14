@@ -1,0 +1,37 @@
+C0001 | Hoang Van An | 35 | pilot | P0020
+C0002 | Nguyen Van Tien | 40 | pilot | P0022
+C0003 | Nguyen Thanh Tai | 27 | pilot | P0024
+C0004 | Nguyen Van D | 27 | pilot | P0004
+C0005 | Nguyen Van E | 31 | pilot | P0005
+C0006 | Nguyen Van F | 30 | pilot | P0006
+C0007 | Nguyen Van G | 32 | pilot | P0007
+C0008 | Nguyen Van H | 33 | pilot | P0008
+C0009 | Hoang Cong Thanh | 33 | pilot | P0055
+C0010 | Hoang Anh Minh | 40 | pilot | P0050
+C0011 | Le Van Manh | 24 | ground staff | D0001
+C0012 | Hoang Van Binh | 26 | ground staff | D0002
+C0013 | Tran Van C | 23 | ground staff | Quan Ly
+C0014 | Tran Van D | 24 | ground staff | Quan Ly
+C0015 | Tran Van E | 25 | ground staff | Quan Ly
+C0016 | Tran Van F | 26 | ground staff | Quan Ly
+C0017 | Tran Van G | 27 | ground staff | Quan Ly
+C0018 | Tran Van H | 28 | ground staff | Quan Ly
+C0019 | Tran Van J | 29 | ground staff | Quan Ly
+C0020 | Tran Van L | 30 | ground staff | Quan Ly
+C0021 | Pham Van Ba | 25 | flight attendant | 2
+C0022 | Phan Van B | 25 | flight attendant | 5
+C0023 | Phan Van C | 29 | flight attendant | 9
+C0024 | Phan Van D | 22 | flight attendant | 2
+C0025 | Phan Van E | 28 | flight attendant | 8
+C0026 | Phan Van F | 32 | flight attendant | 12
+C0027 | Phan Van G | 31 | flight attendant | 11
+C0028 | Phan Van H | 23 | flight attendant | 3
+C0029 | Phan Van J | 33 | flight attendant | 13
+C0030 | Phan Van L | 38 | flight attendant | 18
+C0031 | Le Van A | 22 | admin | Levana
+C0032 | Le Van B | 27 | admin | Levanb
+C0033 | Le Van C | 24 | admin | Levanc
+C0034 | Le Van D | 25 | admin | Levand
+C0035 | Le Van E | 21 | admin | Levane
+C0040 | Tran Huy Hanh | 20 | admin | Tranhh
+C0050 | Hoang Le Nhat Minh | 20 | admin | Hoanglnm
